@@ -1,0 +1,19 @@
+﻿# Visual Studio 캐시
+.vs/
+
+# 빌드 결과물
+x64/
+Debug/
+Release/
+
+# 사용자 설정 파일
+*.vcxproj.user
+
+# 임시 파일
+*.obj
+*.pdb
+*.log
+*.tmp
+
+# 실행 파일
+*.exe
